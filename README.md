@@ -2,8 +2,7 @@
 
 ## Control Flow Graph 
 
-<img width="702" alt="Screenshot 2023-05-30 at 22 03 52" src="https://github.com/nnikolikj/SI_2023_lab2_132016/assets/52664069/d79049b0-d6b1-4918-8092-6d643f3a5cc5">
-
+<img width="702" alt="Screenshot 2023-05-30 at 22 03 52" src="https://github.com/nnikolikj/SI_2023_lab2_132016/assets/52664069/7f913f35-545f-436a-8c3e-88d700bdad0e">
 
 ## Цикломатската комплексност 
 
